@@ -1,0 +1,5 @@
+.env 
+#ignore env files
+
+.log 
+#ignores log files
