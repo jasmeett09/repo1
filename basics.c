@@ -52,12 +52,7 @@ void main(){
 }
 */
 
-#include<stdio.h>
-int main()
-{
-  float c= 2E-4f; // hexadecimal value 
-  printf("%f",c);
-}
+
 
 
 
